@@ -1,0 +1,7 @@
+11/4/2019	Joined with suraj and uday to  work on J1939 stack implementation  ,SAE-J1939 Documnets:Revised
+11/5/2019	Git Session Attended,NMEA-2000 Document& J1939 Documnets Revised,PGN format Extraction from 29 bit ID
+11/6/2019	Understood the Flow of J1939  Tx,Rx ,Started practising  on Git
+11/7/2019	Self learnt about how basic engine works,components of it and Created Git hub account,practised various commands on Git
+11/8/2019	Self learnt about 4 stroke engine,Worked on Git tool,Started PPT  Presentation on CAN,J1939
+11/11/2019	Preparation on CAN,J1939,self learnt about what are the sensors present in engine
+11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,studied about SCM,clear case VOB,client and various servers
