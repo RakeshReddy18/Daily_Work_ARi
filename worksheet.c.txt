@@ -4,4 +4,5 @@
 11/7/2019	Self learnt about how basic engine works,components of it and Created Git hub account,practised various commands on Git
 11/8/2019	Self learnt about 4 stroke engine,Worked on Git tool,Started PPT  Presentation on CAN,J1939
 11/11/2019	Preparation on CAN,J1939,self learnt about what are the sensors present in engine
-11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,studied about SCM,clear case VOB,client and various servers
+11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,documents collected for SCM,clear case VOB,client and various servers
+11/13/2019	Prepared PPT on CAN,J1939,went for team lunch,studied about SCM,clear case VOB,client and various servers
