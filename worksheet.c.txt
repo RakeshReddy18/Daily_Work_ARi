@@ -6,3 +6,4 @@
 11/11/2019	Preparation on CAN,J1939,self learnt about what are the sensors present in engine
 11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,documents collected for SCM,clear case VOB,client and various servers
 11/13/2019	Prepared PPT on CAN,J1939,went for team lunch,studied about SCM,clear case VOB,client and various servers
+11/14/2019	CAN Bit timing,synchronization types,OSI layers job,configuraton mgt:release units,types,labels,type of labels studied
