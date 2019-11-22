@@ -7,3 +7,9 @@
 11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,documents collected for SCM,clear case VOB,client and various servers
 11/13/2019	Prepared PPT on CAN,J1939,went for team lunch,studied about SCM,clear case VOB,client and various servers
 11/14/2019	CAN Bit timing,synchronization types,OSI layers job,configuraton mgt:release units,types,labels,type of labels studied
+11/15/2019	Presentation Given on CAN,Issue list session Attended,CATerpillar Software development process document studied											
+11/18/2019	CATerpillar Software development process document Understood,Createrd View and mount the VOBs,Engine basics studied and Issue list session attended
+11/19/2019	Attended Session on Clear case tool,studied dynamic and snapshot view,creating view and adding eleemnts,check in,checkout
+11/20/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
+11/21/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
+11/22/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec,Attended session on Package architectureV2.0
