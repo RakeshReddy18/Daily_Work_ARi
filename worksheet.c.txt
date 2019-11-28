@@ -13,3 +13,8 @@
 11/20/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
 11/21/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
 11/22/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec,Attended session on Package architectureV2.0
+11/25/2019	studied the document of Package architectureV2.0 and tried to map with the bal engine_subsystems vob
+11/26/2019	understood basic engine fuel,intake,coolant,exhaust systems,studied the document of Package architectureV2.0 and tried to map with the bal engine_subsystems vob
+11/27/2019	worked on analyzing VOBs package files how subsystems,methods,tasks are implemented,Attended session on VOBs architecture
+11/28/2019	Understood  VOBs architecture flow in bal_engine subsystems,Attended session on build request process 
+11/29/2019	on leave
