@@ -18,3 +18,9 @@
 11/27/2019	worked on analyzing VOBs package files how subsystems,methods,tasks are implemented,Attended session on VOBs architecture
 11/28/2019	Understood  VOBs architecture flow in bal_engine subsystems,Attended session on build request process 
 11/29/2019	on leave
+11/2/2019	self study,package architecture flow observed, learnt how to do investigations on Build requests and done practically
+11/3/2019	studied CAT Tier-4A VOB Architecutre,CAT package architecutre and  build procedure for Git builds bom/non-bom,Attended session on vob architecture
+11/4/2019	gone through VOB architecutre flow for bal engine subsystems ,Learnt  hwo to do Test to Prod build request 
+11/5/2019	Test to prod BR testing Learnt,VOB architecture flow for bal engine interface and release studied
+11/6/2019	studied bal engine subsytem Architecture flow,Revised the topics package architecutre and clearcase,try to learn CANape pdf
+
