@@ -31,8 +31,20 @@
 12/16/2019	Started analysing internal directories and various recipes of  bal engine subsystems VOB  architecture flow
 12/17/2019	continued revision on bal engine subsystems VOB  architecture flow,Attended session on bce_ail VOB and  CAT SDLC process
 12/18/2019	started Analyzing project using UDC tool,Revised bce_ail VOB architecture flow, and CAT SDLC process
-12/19/2019	
-12/20/2019	
+12/19/2019	Sample BR analyzed and partially done test to prod BR and observed how to do 25% testing on it
+12/20/2019	Involved in Test to prod BR fl2 creation,UDC project code analyzed,old BE-activity  analysis from issue list and code changes  observed 
+12/23/2019	Revised topics on build request procedure for wo update,investigation,test to prod,VOB architecture flow
+12/24/2019	  issue  list  from old BE-activities   Analysed and code changes observed 
+12/25/2019	Holiday
+12/26/2019	Applied  config spec on old BE-activities and understood code flow and observed like which files got effected and dependency of each file
+12/27/2019	 old BE-activities  code flow understood and gone through VOB architecutre flow for bal engine subsystems
+12/30/2019	on sick  leave
+12/31/2019	J1939 MAP Protocol studied and observed its usage in .c files of vob architecture 
+1/1/2020	Holiday
+1/2/2020	Code Analyzing  using UDC tool,Revised bce_ail VOB architecture flow, and CAT SDLC process
+1/3/2020	Attended session on workorder update BR,Revised the topics package architecutre and clearcase
+1/6/2020	Revised clearcase tool,involved finalise and release process of work order update,Attended session on MPD ,spill chart and RCCA
+1/7/2020	Project added on Resume,Prepared PPT on clearcase tool and given presentation,Revised document of MPD,Attended session on Trace32 bench andCAT  layered architecture
 
 
 
